@@ -10,9 +10,6 @@ Visual Studio Code
 📚 Estrutura do Curso
 O curso inicia com a base da linguagem Python antes de avançar para conceitos de ciência de dados. Os tópicos estão organizados por pastas:
 
-csharp
-Copiar
-Editar
 📂 01-introducao-python/        # Sintaxe básica, variáveis, tipos de dados
 📂 02-operadores/               # Operadores aritméticos, lógicos e relacionais
 📂 03-listas-e-tuplas/          # Trabalhando com coleções
