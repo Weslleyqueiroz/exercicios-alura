@@ -39,3 +39,18 @@
     #print("O resultado não pode ser igual a 0")
 #else:
    # print(f"O resultado da divisão é : {divisao1}")
+
+#digite = int(input("Digite o primeiro valor : "))
+#digite2 = int(input("Digite o segundo valor : "))
+#mult = digite*digite2
+#print(mult)
+
+
+soma = 0
+
+for i in range(3):
+    nota = float(input(f"Digite as suas 3 notas {i+1}: "))
+    soma += nota
+   
+media = soma/3
+print(f"A sua média é : {media}")
