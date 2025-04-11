@@ -11,10 +11,15 @@ Visual Studio Code
 O curso inicia com a base da linguagem Python antes de avançar para conceitos de ciência de dados. Os tópicos estão organizados por pastas:
 
 📂 01-introducao-python/        # Sintaxe básica, variáveis, tipos de dados
+
 📂 02-operadores/               # Operadores aritméticos, lógicos e relacionais
+
 📂 03-listas-e-tuplas/          # Trabalhando com coleções
+
 📂 04-condicionais/             # Estruturas condicionais: if, elif, else
+
 📂 05-repeticoes/               # Laços de repetição: for, while
+
 📄 README.md                    # Este arquivo
 
 🧠 Objetivo
