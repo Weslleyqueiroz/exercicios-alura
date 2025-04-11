@@ -42,4 +42,15 @@
 #6) Escreva um programa que gere a tabuada 
 #de um número inteiro de 1 a 10, de acordo com 
 #a escolha da pessoa usuária. Como exemplo, para o 
-#número 2, a tabuada deve ser mostrada no seguinte formato:  
+#número 2, a tabuada deve ser mostrada no seguinte formato:
+
+numero = int(input("Digite o número que será gerado a taboada :"))
+
+while 1 <= numero <= 10:
+    print(f"tabuada do : {numero}")
+    for i in range(1,11):
+        print(f'{numero} x {i} = {numero*i}')
+    
+    numero = int(input("\nDigite outro número (entre 1 e 10) para ver outra tabuada ou qualquer outro número para sair: "))
+
+print("Digite um número válido (entre 1 e 10) da próxima vez!")
