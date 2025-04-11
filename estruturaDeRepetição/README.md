@@ -3,7 +3,7 @@
 
 ✅ 2) Escreva um programa que solicite o percentual de crescimento de produção de uma empresa e informe se houve um crescimento (porcentagem positiva) ou decrescimento (porcentagem negativa).
 
-3) Escreva um programa que determine se uma letra fornecida pela pessoa usuária é uma vogal ou consoante.
+✅3) Escreva um programa que determine se uma letra fornecida pela pessoa usuária é uma vogal ou consoante.
 
 4) Escreva um programa que leia valores médios de preços de um modelo de carro por 3 anos consecutivos e exiba o valor mais alto e mais baixo entre esses três anos.
 
