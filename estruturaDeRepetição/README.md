@@ -17,7 +17,8 @@
 
 9) Escreva um programa que peça um número à pessoa usuária e informe se ele é inteiro ou decimal.
 
-Momento dos projetos
+## Momento dos projetos
+
 ✅ 10) Um programa deve ser escrito para ler dois números e, em seguida, perguntar à pessoa usuária qual operação ele deseja realizar. O resultado da operação deve incluir informações sobre o número - se é par ou ímpar, positivo ou negativo e inteiro ou decimal.
 
 ✅ 11) Escreva um programa que peça à pessoa usuária três números que representam os lados de um triângulo. O programa deve informar se os valores podem ser utilizados para formar um triângulo e, caso afirmativo, se ele é equilátero, isósceles ou escaleno. Tenha em mente algumas dicas:
